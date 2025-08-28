@@ -1,8 +1,6 @@
-# Student_GradePrediction_Model
+# 🎓 Student Grade Prediction using ANN
 
-# 🎓 Student Grade Prediction using Deep Learning
-
-This project builds and optimizes a **Deep Neural Network (DNN)** model to predict student grades (`A`, `B`, `C`, `F`) based on features such as quizzes, study efficiency, participation, and assignment penalties.  
+This project builds and optimizes a **Artificial Neural Network** model to predict student grades (`A`, `B`, `C`, `F`) based on features such as quizzes, study efficiency, participation, and assignment penalties.  
 It leverages **Bayesian Optimization** for hyperparameter tuning and evaluates performance on training, validation, and test datasets.  
 
 
